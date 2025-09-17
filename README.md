@@ -17,9 +17,17 @@ The goal is to identify financial entities (organizations, locations, people) in
 
 1. **Exploratory Data Analysis (EDA)**
 
+<div align="center">
+  <img src="images/eda1.png" alt="Description" width="500"/>
+</div>
+
 2. **Data preprocessing and sentence structuring**
 
 3. **Tokenization and embedding**: done using GloVe.
+
+<div align="center">
+  <img src="images/embedding.png" alt="Description" width="500"/>
+</div>
 
 4. **Model training**: The project systematically evaluates four distinct neural architectures:
      - Baseline Multinomial Naive Bayes
