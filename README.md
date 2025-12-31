@@ -1,6 +1,6 @@
 #  📖 About
 
-This project is a comprehensive implementation and analysis of Named Entity Recognition (NER) in financial documents, focusing on deep learning architectures such as LSTM, GRU, BiLSTM, and Transformer-based models (BERT). The workflow covers everything from data preprocessing to model training, evaluation, and comparison in a financial text domain.
+This project implement and Named Entity Recognition (NER) for financial documents, focusing on deep learning architectures such as LSTM, GRU, BiLSTM, and Transformer-based models (BERT). The workflow covers everything from data preprocessing to model training, evaluation, and comparison in a financial text domain.
 
 ## Authors
 
