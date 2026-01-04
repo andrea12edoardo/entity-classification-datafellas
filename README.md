@@ -1,4 +1,6 @@
-#  📖 About
+# Extracting Financial Entities: A Comparative Evaluation for Domain-Specific NER
+
+##  📖 About
 
 This project implement Named Entity Recognition (NER) for financial documents and emails, focusing on deep learning architectures such as LSTM, GRU, BiLSTM, and Transformer-based models (BERT). The workflow covers everything from data preprocessing to model training, evaluation, and comparison in a financial text domain.
 
